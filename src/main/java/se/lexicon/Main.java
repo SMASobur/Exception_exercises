@@ -6,7 +6,11 @@ public class Main {
         //Divider.dividedFirstBySecond();
 
         // Exercise 2
-        MultipleExeption.multipleExeptionChecker();
+        //MultipleExeption.multipleExeptionChecker();
+
+        // Exercise 3
+        CustomException.bankTest();
+
 
     }
 }
