@@ -9,7 +9,11 @@ public class Main {
         //MultipleExeption.multipleExeptionChecker();
 
         // Exercise 3
-        CustomException.bankTest();
+        //CustomException.bankTest();
+
+        // Exercise 4
+        FileParser.fileParse();
+
 
 
     }
